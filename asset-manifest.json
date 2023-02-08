@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1d879a8a.css",
+    "main.js": "./static/js/main.ee882282.js",
+    "static/media/image_processing20191128-27858-1mf3186.gif": "./static/media/image_processing20191128-27858-1mf3186.1af401e83dd3edcaab5e.gif",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/2.png": "./static/media/2.e140ea9d444f13e3c17c.png",
+    "static/media/hero-about-living-room-1024x576.png": "./static/media/hero-about-living-room-1024x576.3bd6c8986565dca7d62e.png",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/7309681.jpg": "./static/media/7309681.749667cc5449de2b9786.jpg",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "./index.html",
+    "main.1d879a8a.css.map": "./static/css/main.1d879a8a.css.map",
+    "main.ee882282.js.map": "./static/js/main.ee882282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d879a8a.css",
+    "static/js/main.ee882282.js"
+  ]
+}
